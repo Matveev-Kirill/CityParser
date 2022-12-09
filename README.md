@@ -31,3 +31,5 @@ City{name='Майкоп', region='Адыгея', district='Южный', populati
 City{name='Горно-Алтайск', region='Алтай', district='Сибирский', population=56928, foundation='1830'} 
 
 …
+
+### Сортировка списка городов
